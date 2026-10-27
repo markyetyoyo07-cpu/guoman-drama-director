@@ -1,0 +1,8 @@
+interface:
+  display_name: "三维国漫短剧导演"
+  short_description: "故事到精致连续三维国漫短剧的制作总控"
+  brand_color: "#C77835"
+  default_prompt: "Use $guoman-drama-director to turn my story into a polished, continuous 3D Chinese-animation-style short drama."
+
+policy:
+  allow_implicit_invocation: true
